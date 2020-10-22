@@ -1,0 +1,5 @@
+Credentials cache: API:68416
+        Principal: jvanden-@S19.BE
+
+  Issued                Expires               Principal
+Feb  3 14:21:42 2020  Feb  4 00:21:34 2020  krbtgt/S19.BE@S19.BE
